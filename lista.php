@@ -1,6 +1,0 @@
-<html>
-	<body>
-		<li>
-		</li>
-	</body>
-</html>
